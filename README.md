@@ -8,4 +8,4 @@
 
 ## Demonstration Program
 
-![qchatdemo](.\qchatdemo.gif)
+![qchatdemo](./qchatdemo.gif)

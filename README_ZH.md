@@ -8,5 +8,5 @@
 
 ## 程序演示
 
-![qchatdemo](D:/test/qt/QChatDemo/qchatdemo.gif)
+![qchatdemo](./qchatdemo.gif)
 
